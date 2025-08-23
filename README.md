@@ -60,12 +60,13 @@ The challenge is to develop a machine learning model to accurately predict three
 
 ## 📊 Results
 
-- 🚀 **Reduced preprocessing time by 20%** using efficient feature engineering and data handling  
-- 📉 **Reduced prediction variance by 15%** through hyperparameter tuning and model optimization  
-- ✅ **Achieved consistent forecasts across 5+ flight scenarios**  
-- 🎯 **Accurate multi-target predictions** for acceleration, heading, and turn rate, supporting collision avoidance and airspace optimization  
-- 📊 **F1-scores indicate reliable prediction performance** across different flight conditions  
-- 💡 Insights generated can assist air traffic controllers in improving safety, reducing delays, and optimizing fuel and route planning
+- Reduced preprocessing time by 20% using efficient feature engineering and data handling  
+- Reduced prediction variance by 15% through hyperparameter tuning and model optimization  
+- Achieved consistent forecasts across 5+ flight scenarios  
+- Accurate multi-target predictions for acceleration, heading, and turn rate, supporting collision avoidance and airspace optimization  
+- F1-scores indicate reliable prediction performance across different flight conditions  
+- Insights generated can assist air traffic controllers in improving safety, reducing delays, and optimizing fuel and route planning
+
 
 ---
 
