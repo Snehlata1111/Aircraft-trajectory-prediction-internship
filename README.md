@@ -15,7 +15,8 @@ The challenge is to develop a machine learning model to accurately predict three
 - Tuned hyperparameters to improve model stability and reduce prediction variance by **15%**.  
 - Evaluated predictions with **F1-score**, ensuring reliable trajectory insights.  
 
-![Project Illustration](https://github.com/user-attachments/assets/5b7f1a09-25b4-4119-b6aa-57f6a31d6c7e)
+
+![YfgTX](https://github.com/user-attachments/assets/42d8f0df-5633-47a4-8261-bbab9712b61b)
 
 ---
 
@@ -33,7 +34,8 @@ The challenge is to develop a machine learning model to accurately predict three
 ---
 
 ## Model Training
-![Training Figure](https://github.com/user-attachments/assets/fda04058-cf6e-4509-abc2-ea42531de0af)
+
+<img width="685" height="226" alt="41598_2022_19794_Fig1_HTML" src="https://github.com/user-attachments/assets/9148e8f3-d4ad-4adf-9a2e-a0f09a83bd66" />
 
 ### 🔧 Data Preparation
 - Categorical variables (acceleration, heading, turn rate) → label encoded  
